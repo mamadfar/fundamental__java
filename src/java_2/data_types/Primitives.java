@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class primitives {
+public class Primitives {
     byte myByte = 100;          // Byte - 1 byte --> -128 to 127
     short myShort = 5000;       // Short - 2 bytes --> -32,768 to 32,767 (-2^15 to 2^15-1)
     int myNum = 5;              // Integer - 4 bytes --> -2^31 to 2^31-1
@@ -13,8 +13,8 @@ public class primitives {
 
     boolean myBool = true;      // Boolean - 1 bit --> true or false
 
-    static void main(String[] args) {
-        primitives p = new primitives();
+    public static void main(String[] args) {
+        Primitives p = new Primitives();
         System.out.println("Byte value: " + p.myByte);
         System.out.println("Short value: " + p.myShort);
         System.out.println("Integer value: " + p.myNum);

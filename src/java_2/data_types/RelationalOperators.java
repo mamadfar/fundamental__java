@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class relational_operators {
+public class RelationalOperators {
     int x = 10;
     int y = 20;
 
@@ -14,7 +14,7 @@ public class relational_operators {
     }
 
     public static void main(String[] args) {
-        relational_operators relOps = new relational_operators();
+        RelationalOperators relOps = new RelationalOperators();
         relOps.compare();
     }
 }

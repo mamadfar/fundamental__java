@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class literals {
+public class Literals {
     public static void main (String[] args) {
         int num1 = 100;
         int num2 = 0b101; // Binary literal (5 in decimal)

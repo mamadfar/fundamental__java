@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class operations {
+public class Operations {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 5;

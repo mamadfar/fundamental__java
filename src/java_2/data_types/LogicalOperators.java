@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class logical_operators {
+public class LogicalOperators {
     int a = 5;
     int b = 10;
     int c = 15;
@@ -18,7 +18,7 @@ public class logical_operators {
     }
 
     public static void main(String[] args) {
-        logical_operators ops = new logical_operators();
+        LogicalOperators ops = new LogicalOperators();
         ops.logicalOps();
     }
 }

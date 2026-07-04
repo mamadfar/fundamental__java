@@ -1,6 +1,6 @@
 package java_2.data_types;
 
-public class conversion_and_casing {
+public class ConversionAndCasting {
     public static void main(String[] args) {
         byte myByte1 = 100;
         int myInt1 = myByte1; // Implicit conversion (byte to int)
