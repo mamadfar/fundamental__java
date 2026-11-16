@@ -18,7 +18,7 @@ class Human {
 
 }
 
-public class PrivateAndGetterSetter {
+public class EncapsulationAndPrivateAndGetterSetter {
     static void main() {
         Human human = new Human();
 
