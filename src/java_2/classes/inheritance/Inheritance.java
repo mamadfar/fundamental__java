@@ -1,5 +1,8 @@
 package java_2.classes.inheritance;
 
+import java_2.classes.inheritance.packages.*; //? Import all the files inside the packages folder (only the files, not folders)
+
+
 public class Inheritance {
     static void main() {
         
